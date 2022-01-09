@@ -1,0 +1,49 @@
+.box1   
+    {
+        background-color: rgb(126, 229, 218);
+        width: 34%;
+        height: 85px;
+        margin-left: 30px;
+        float: left;
+        text-align: center;
+    }
+
+.box2   
+    {
+        background-color: rgb(112, 204, 194);
+        width: 28%;
+        height: 85px;
+        margin-left: 5px;
+        float: left ;
+        text-align: center;
+
+    }
+.box3   
+    {
+        background-color: rgb(98, 179, 170);
+        width: 33.5%;
+        height: 85px;
+        margin-left: 5px;
+        float: left;
+        text-align: center;
+    }
+
+
+    .center 
+    {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%;
+     }
+.upperbox
+     { 
+         text-align: center;
+         background-color:rgb(238, 238, 238);
+         margin: 10px 30px 5px 30px;
+        
+
+
+
+     }
+  
